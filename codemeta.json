@@ -17,9 +17,9 @@
     ],
     "codeRepository": "https://github.com/SonkeKraft/DataSeminars",
     "dateCreated": "2026-03-05",
-    "dateModified": "2026-03-05",
-    "datePublished": "2026-03-05",
-    "description": "This is a Jupyter notebook for the classification of customer data",
+    "dateModified": "2026-03-06",
+    "datePublished": "2026-03-06",
+    "description": "Customer_classification is a Jupyter notebook for the classification of customer data. The goal is to predict telecom customer churn.",
     "identifier": "[![DOI](https://zenodo.org/badge/1170142982.svg)](https://doi.org/10.5281/zenodo.18827247)",
     "keywords": [
         "customer data",
@@ -27,7 +27,7 @@
         "churn"
     ],
     "license": "https://spdx.org/licenses/MIT",
-    "name": "Test_code_V1",
-    "version": "1.0.0",
+    "name": "Customer_classification",
+    "version": "1.0.1",
     "developmentStatus": "concept"
 }
